@@ -30,3 +30,4 @@
 *.exe
 *.out
 *.app
+/ConsoleApplication1/.vs/ConsoleApplication1/v17/ipch/AutoPCH/3e61de0e1b4c390b/CONSOLEAPPLICATION1.ipch
